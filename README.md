@@ -4,7 +4,7 @@ Dataset: https://www.kaggle.com/c/fake-news/data#
 
 ![Fake](https://user-images.githubusercontent.com/68546391/97145655-91912180-178c-11eb-925d-1347dca903ff.jpg)
 
-**What is Fake News??**<br/>
+**What does it mean by Fake News??**<br/>
 Many people have been using the term fake news for the last few years, but do they actually know what it looks like? The term has been used so amorphously that it begs a more direct examination. Sensationalist fake news is often used to generate clicks onto a webpage to improve ad revenue. It has also been used to influence public thought.
 
 _The concepts used to predict whether the news is fake or not:_
