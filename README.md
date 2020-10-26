@@ -1,5 +1,7 @@
 _**Fake or Real!!!**_
 
+Dataset: https://www.kaggle.com/c/fake-news/data#
+
 ![Fake](https://user-images.githubusercontent.com/68546391/97145655-91912180-178c-11eb-925d-1347dca903ff.jpg)
 
 **What is Fake News??**<br/>
